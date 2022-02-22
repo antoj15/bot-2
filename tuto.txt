@@ -1,0 +1,36 @@
+🥳hola esta es la versión  V1.0 de moodle_upload_dev_bot🥳
+
+——————————————————————————
+😎Pasos para poder usar el bot😎
+——————————————————————————
+1-
+/myuser para poder ver los datos actuales q tienes configurados.
+
+2-
+configurar moodle
+/account dev,Dev2021@
+
+/host link de la nube.
+
+3-
+ver archivos en la nube.
+/files
+
+4-
+/zips y el tamaño de las partes
+
+5-
+repo id es el repo de la nube q vas a usar cada nube tiene un repo en especifico asi q si no esta subiendo correctamente cambia el repo recomiendo dejarlo en 4 asi:
+/repo 4
+——————————————————————————————
+páginas webs soportadas para descargar
+——————————————————————————————
+apkpure
+mega (Archivos y Carpetas)
+mediafire (Archivos)
+Youtube (Nota: Descargas un poco lentas)
+heroku
+
+si quieres subir a él bot un archivo de telegram @tg_file_link_bot usa este bot,
+le renvías el archivo y de dará varias opciones deja presionado el texto en azul con el nombre del archivo y le dan copiar,
+después ve al Bot y envíale el link y lo empezara a subir.
